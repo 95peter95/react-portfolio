@@ -1,6 +1,5 @@
 
 .navbar {
-    
     overflow: hidden;
     background-color: rgba($color: #1b1b1b, $alpha: 1);
     position: fixed;
@@ -10,7 +9,6 @@
     padding-left: 25rem;
     
   }
-  
   .navbar a {
     position: relative;
     display: inline-block;
@@ -25,5 +23,6 @@
   .navbar a:hover {
     background: #ddd;
     color: black;
+    cursor: pointer;
   }
   

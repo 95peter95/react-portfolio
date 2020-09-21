@@ -13,10 +13,10 @@ class App extends Component {
   return (
     <>
     <div className="navbar">
-        <a href="home"><Link activeClass="active" to="home" spy={true} smooth={true} duration={500} >Home</Link></a>
-        <a href="about"><Link activeClass="active" to="about" spy={true} smooth={true} duration={500}>About me</Link></a>
-        <a href="skills"><Link activeClass="active" to="skills" spy={true} smooth={true} duration={500} >Skills</Link></a>
-        <a href="certificates"><Link activeClass="active" to="certificates" spy={true} smooth={true} duration={500}>Certificates</Link></a>     
+        <a href><Link activeClass="active" to="home" spy={true} smooth={true} duration={500} >Home</Link></a>
+        <a href><Link activeClass="active" to="about" spy={true} smooth={true} duration={500}>About me</Link></a>
+        <a href><Link activeClass="active" to="skills" spy={true} smooth={true} duration={500} >Skills</Link></a>
+        <a href><Link activeClass="active" to="certificates" spy={true} smooth={true} duration={500}>Certificates</Link></a>     
     </div>
                     
     <Element name="home">
