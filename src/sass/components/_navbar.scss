@@ -1,0 +1,29 @@
+
+.navbar {
+    
+    overflow: hidden;
+    background-color: rgba($color: #1b1b1b, $alpha: 1);
+    position: fixed;
+    top: 0; 
+    width: 95%;
+    z-index: 2;
+    padding-left: 25rem;
+    
+  }
+  
+  .navbar a {
+    position: relative;
+    display: inline-block;
+    float: none;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 2rem 2rem;
+    font-size: 1.5rem;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  

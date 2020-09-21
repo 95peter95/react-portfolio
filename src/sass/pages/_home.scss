@@ -1,0 +1,26 @@
+.section-about {
+    background-color: $color-grey-light-1;
+    padding: 20rem 5rem;
+    margin-top: -5vh;
+    height: 100vh;
+}
+
+.section-skills {
+    padding: 20rem 2rem;
+    background-image:linear-gradient(to right, $color-header,  $color-header-dark) , url(./../../assets/hero.png);
+    clip-path: polygon(0 0, 100% 0, 100% 95%, 0 100%);
+    background-size: cover;
+
+}
+
+.section-certificates {
+    background-color: $color-grey-light-1;
+    padding: 20rem 5rem ;
+    margin-top: -5vh;
+}
+
+.section-footer {
+    background-color: rgba($color: #1b1b1b, $alpha: 1.0);
+    padding: 5rem 2rem;
+    margin-top: -5vh;
+}
