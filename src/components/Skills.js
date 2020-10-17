@@ -22,7 +22,9 @@ export default class Skills extends Component {
                         HTML5 / advanced<br></br>
                         CSS(SASS) / advanced<br></br>
                         JAVASCRIPT / advanced<br></br>
-                        REACT / advanced
+                        WORDPRESS / basics<br></br>
+                        REACT / basics
+                        
                     </p>
                 </div>
             </div>
@@ -34,6 +36,7 @@ export default class Skills extends Component {
                         PHP / basics<br></br>
                         Laravel / basics<br></br>
                         Python / basics<br></br>
+                        <br></br>
                         <br></br>
                     </p>
                 </div>
@@ -47,6 +50,7 @@ export default class Skills extends Component {
                         <br></br>
                         <br></br>
                         <br></br>
+                        <br></br>
                     </p>
                 </div>
             </div>
@@ -56,6 +60,7 @@ export default class Skills extends Component {
                     <h3 className="heading-teartiary u-margin-bottom-small">VCS</h3>
                     <p className="feature-box__text">
                         GITHUB / basics
+                        <br></br>
                         <br></br>
                         <br></br>
                         <br></br>
